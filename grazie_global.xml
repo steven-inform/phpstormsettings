@@ -1,0 +1,15 @@
+<application>
+  <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Dutch" />
+      </set>
+    </option>
+    <option name="userDisabledRules">
+      <set>
+        <option value="LanguageTool.NL.WOORD_MET_UNDERSCORE" />
+      </set>
+    </option>
+  </component>
+</application>

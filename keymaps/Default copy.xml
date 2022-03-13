@@ -1,0 +1,19 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="ParameterInfo" />
+  <action id="Print">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="RecentFiles" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+</keymap>

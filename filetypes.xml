@@ -1,0 +1,40 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="htaccess" type="AUTO_DETECTED" />
+      <mapping pattern="text" type="AUTO_DETECTED" />
+      <mapping pattern="documentation htaccess file in sheets dir" type="AUTO_DETECTED" />
+      <mapping ext="js_save" type="JavaScript" />
+      <mapping pattern=".htaccess2" type="PLAIN_TEXT" />
+      <mapping pattern="action" type="PLAIN_TEXT" />
+      <mapping pattern="please_composer_install" type="PLAIN_TEXT" />
+      <mapping pattern=".htacccess" type="PLAIN_TEXT" />
+      <mapping pattern="import_coda_visualbasic" type="PLAIN_TEXT" />
+      <mapping pattern="ccd_id" type="PLAIN_TEXT" />
+      <mapping pattern="sql_on_update" type="PLAIN_TEXT" />
+      <mapping pattern="curl_overlaps_date" type="PLAIN_TEXT" />
+      <mapping pattern="du_report" type="PLAIN_TEXT" />
+      <mapping pattern="displaydate" type="PLAIN_TEXT" />
+      <mapping pattern=".passwd" type="PLAIN_TEXT" />
+      <mapping pattern="makedirscript" type="PLAIN_TEXT" />
+      <mapping pattern="extra_js_scripts[]" type="PLAIN_TEXT" />
+      <mapping pattern="a_google_sheet" type="PLAIN_TEXT" />
+      <mapping pattern="subformulier" type="PLAIN_TEXT" />
+      <mapping pattern="table" type="PLAIN_TEXT" />
+      <mapping pattern="main_table" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern=".env.prod.local" type="PLAIN_TEXT" />
+      <mapping pattern="hello_earth" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev.local" type="PLAIN_TEXT" />
+      <mapping pattern="triggers_rekeningen.txt" type="PLAIN_TEXT" />
+      <mapping pattern="composer_latest_install" type="PLAIN_TEXT" />
+      <mapping pattern="subformulierrights" type="PLAIN_TEXT" />
+      <mapping ext="frm" type="PLAIN_TEXT" />
+      <mapping ext="bc2" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping pattern=".ht2access" type="htaccess" />
+      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
+    </extensionMap>
+  </component>
+</application>

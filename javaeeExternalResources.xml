@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.minfin.fgov.be/InputCommon" location="C:/Bitnami/wampstack-7.1.12-0/apache2/htdocs/infact" />
+    <resource url="http://www.minfin.fgov.be/VATConsignment" location="C:/Bitnami/wampstack-7.1.12-0/apache2/htdocs/infact" />
+    <resource url="https://www.minfin.fgov.be/InputCommon" location="C:/Bitnami/wampstack-7.1.12-0/apache2/htdocs/infact" />
+  </component>
+</application>
