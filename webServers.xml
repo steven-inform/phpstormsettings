@@ -113,9 +113,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="46a0ec90-7fdf-4dcf-afe4-72f6fd818120" name="exfuncprog">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
     </option>
   </component>
 </application>
