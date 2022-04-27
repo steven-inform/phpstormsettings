@@ -5,7 +5,6 @@
         <entry key="ide.max.recent.projects" value="200" />
         <entry key="ide.usages.page.size" value="1000" />
         <entry key="show.diff.as.editor.tab" value="false" />
-        <entry key="vcs.commit.tool.window" value="false" />
         <entry key="vcs.non.modal.commit.toggle.ui" value="true" />
       </map>
     </option>
