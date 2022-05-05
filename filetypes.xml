@@ -24,6 +24,7 @@
       <mapping pattern="main_table" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod.local" type="PLAIN_TEXT" />
+      <mapping pattern=".php_version" type="PLAIN_TEXT" />
       <mapping pattern="hello_earth" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev.local" type="PLAIN_TEXT" />
       <mapping pattern="triggers_rekeningen.txt" type="PLAIN_TEXT" />
