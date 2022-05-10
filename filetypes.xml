@@ -6,6 +6,7 @@
       <mapping pattern="documentation htaccess file in sheets dir" type="AUTO_DETECTED" />
       <mapping ext="js_save" type="JavaScript" />
       <mapping pattern=".htaccess2" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="action" type="PLAIN_TEXT" />
       <mapping pattern="please_composer_install" type="PLAIN_TEXT" />
       <mapping pattern=".htacccess" type="PLAIN_TEXT" />
