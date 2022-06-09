@@ -2,7 +2,9 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="htaccess" type="AUTO_DETECTED" />
+      <mapping pattern="JWTSubscriber" type="AUTO_DETECTED" />
       <mapping pattern="text" type="AUTO_DETECTED" />
+      <mapping pattern="JWTSubscriber.php" type="AUTO_DETECTED" />
       <mapping pattern="documentation htaccess file in sheets dir" type="AUTO_DETECTED" />
       <mapping ext="js_save" type="JavaScript" />
       <mapping pattern=".htaccess2" type="PLAIN_TEXT" />
