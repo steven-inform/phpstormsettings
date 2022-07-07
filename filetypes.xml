@@ -42,6 +42,7 @@
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern=".ht2access" type="htaccess" />
       <removed_mapping ext="log" approved="true" type="ANSI Aware" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
 </application>
